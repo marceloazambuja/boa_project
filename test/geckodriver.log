@@ -1,4 +1,5 @@
-1564433037769	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/m6/2khbw6716bj6v0df6lf2mmz80000gp/T/rust_mozprofile.swWQuoC8JmVw"
-1564433041405	Marionette	INFO	Listening on port 63741
-1564433041466	Marionette	WARN	TLS certificate errors will be ignored for this session
-1564433089833	Marionette	INFO	Stopped listening on port 63741
+1564440440918	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/m6/2khbw6716bj6v0df6lf2mmz80000gp/T/rust_mozprofile.kAsFyRzaQImy"
+1564440444136	Marionette	INFO	Listening on port 58207
+1564440444175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1564440459983	Marionette	INFO	Stopped listening on port 58207
+JavaScript error: resource://gre/modules/WebProgressChild.jsm, line 58: TypeError: this.mm.content is null
